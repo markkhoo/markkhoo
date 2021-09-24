@@ -5,7 +5,7 @@ It's nice to meet you! I am a Web Developer who used to be a Construction Design
 If you were wondering, I was last seen working on [LACMA](https://buildinglacma.org/image_gallery), the section of the museum that spans over Wilshire Blvd. Yes, there are art galleries over a heavily active roadway.
 
 <!-- repo for *github-readme-stats* -->
-<div>
+<div align="center">
   <br/> <!-- just for a little breathing room -->
   <img src="https://github-readme-stats.vercel.app/api?username=markkhoo&show_icons=true&layout=compact&bg_color=30,A30111,003F5A&text_color=F6D1AF&title_color=F6D1AF&border_color=F6D1AF&icon_color=F6D1AF" width="450em" />
   <br/>
