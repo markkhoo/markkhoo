@@ -61,7 +61,7 @@ If you were wondering, I was last seen working on [LACMA](https://buildinglacma.
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkhoo&layout=compact&bg_color=0d1117&text_color=F6D1AF&title_color=F6D1AF&border_color=F6D1AF&langs_count=20" height="164"/>
       </td>
       <td align="center">
-        <h3 style="color:#F6D1AF; letter-spacing:0.5rem"><strong><u>TODO</u></strong></h3>
+        <p style="color:#F6D1AF; letter-spacing:0.5rem"><strong><u>TODO</u></strong></p>
         <div>
           <a href="https://vuejs.org/">
             <img src="./icons/vue.svg" alt="Vue JS" width="36px" />
