@@ -1,8 +1,10 @@
 ### yo 👋
 
-It's nice to meet you! I am a Web Developer who used to be a Construction Design Engineer. In the physical world, I took amazing architectural designs and mathematically sound structural systems and designed plans for them that were actually possible to build! Hopefully I can do the same on the web 😅
+Full Stack Developer who used to be a Heavy Civil Construction Design Engineer. Amatuer Content Creator.
 
-If you were wondering, I was last seen working on [LACMA](https://buildinglacma.org/image_gallery), the section of the museum that spans over Wilshire Blvd. Yes, there are art galleries over a heavily active roadway.
+Can barely build physical and digital infrastructure.
+What is an engineer? I've heard different definitions.
+Early content [proof](https://www.youtube.com/watch?v=_GZiAMZZx80) that I was a civil engineer.
 
 <table align="center">
   <tbody>
