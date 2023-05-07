@@ -61,7 +61,7 @@
       </td>
       <td align="center">
         <!-- <img src="https://github-readme-stats.vercel.app/api?username=markkhoo&show_icons=true&layout=compact&bg_color=0d1117&text_color=F6D1AF&title_color=F6D1AF&border_color=F6D1AF&icon_color=F6D1AF"/> -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkhoo&layout=compact&bg_color=0d1117&text_color=F6D1AF&title_color=F6D1AF&border_color=F6D1AF&langs_count=20" height="164"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkhoo&layout=compact&bg_color=0d1117&text_color=2f81f7&title_color=2f81f7&border_color=2f81f7&langs_count=20" height="164"/>
       </td>
       <td align="left" >
         <p>Civil engineering student in <a href="https://www.youtube.com/watch?v=_GZiAMZZx80">undergrad</a>.</p>
