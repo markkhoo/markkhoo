@@ -9,7 +9,7 @@ Early content [proof](https://www.youtube.com/watch?v=_GZiAMZZx80) that I was a 
 <table align="center">
   <tbody>
     <tr>
-      <td align="center">
+      <td align="right">
         <div>
           <a href="https://angular.io/">
             <img src="./icons/angular.svg" alt="Angular" width="36px"/>
@@ -22,9 +22,9 @@ Early content [proof](https://www.youtube.com/watch?v=_GZiAMZZx80) that I was a 
           </a>
         </div>
         <div>
-          <!-- <a href="https://www.javascript.com/">
+          <a href="https://www.javascript.com/">
             <img src="./icons/javascript.svg" alt="Javascript" width="36px" />
-          </a> -->
+          </a>
           <a href="https://www.typescriptlang.org/">
             <img src="./icons/typescript.svg" alt="Typescript" width="36px" />
           </a>
@@ -38,6 +38,9 @@ Early content [proof](https://www.youtube.com/watch?v=_GZiAMZZx80) that I was a 
         <div>
           <a href="https://sequelize.org/">
             <img src="./icons/sequelize.svg" alt="Sequelize ORM" width="36px" />
+          </a>
+          <a href="https://redis.io/">
+            <img src="./icons/redis.svg" alt="Redis" width="36px" />
           </a>
           <a href="https://www.mongodb.com/">
             <img src="./icons/mongo.svg" alt="Mongo DB" width="36px" />
@@ -63,23 +66,6 @@ Early content [proof](https://www.youtube.com/watch?v=_GZiAMZZx80) that I was a 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkhoo&layout=compact&bg_color=0d1117&text_color=F6D1AF&title_color=F6D1AF&border_color=F6D1AF&langs_count=20" height="164"/>
       </td>
       <td align="center">
-        <p style="color:#F6D1AF; letter-spacing:0.5rem"><strong><u>TODO</u></strong></p>
-        <div>
-          <a href="https://vuejs.org/">
-            <img src="./icons/vue.svg" alt="Vue JS" width="36px" />
-          </a>
-          <a href="https://trpc.io/">
-            <img src="./icons/trpc.svg" alt="tRPC" width="36px" />
-          </a>
-        </div>
-        <div>
-          <a href="https://www.youtube.com/watch?v=de2Hsvxaf8M">
-            <img src="./icons/c.svg" alt="Vue JS" width="36px" />
-          </a>
-          <a href="https://www.rust-lang.org/">
-            <img src="./icons/rust.svg" alt="tRPC" width="36px" />
-          </a>
-        </div>
       </td>
     </tr>
   </tbody>
