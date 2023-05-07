@@ -63,10 +63,9 @@
         <!-- <img src="https://github-readme-stats.vercel.app/api?username=markkhoo&show_icons=true&layout=compact&bg_color=0d1117&text_color=F6D1AF&title_color=F6D1AF&border_color=F6D1AF&icon_color=F6D1AF"/> -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkhoo&layout=compact&bg_color=0d1117&text_color=F6D1AF&title_color=F6D1AF&border_color=F6D1AF&langs_count=20" height="164"/>
       </td>
-      <td align="left" style="line-height: 1.4">
+      <td align="left" >
         <p>Civil engineering student in <a href="https://www.youtube.com/watch?v=_GZiAMZZx80">undergrad</a>.</p>
         <p>EX-<a href="https://dot.ca.gov/">CALTRANS</a>, EX-<a href="https://thebmacorp.com/">BMA Construction Engineering</a>.</p>
-        <p>I worked on <a href="https://www.lacma.org/support/building-lacma">this</a> as a civil engineer.</p>
         <p>Software Developer at <a href="https://www.eplansoft.com/">ePlansoft.</a></p>
         <p><a href="https://www.codeforsanfrancisco.org/">Code for San Francisco</a> Contributor.</p>
         <p><a href="https://realzoo.itsyipy.com/">RealZoo</a> Maintainer.</p>
