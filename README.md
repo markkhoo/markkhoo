@@ -66,7 +66,7 @@
       <td align="left" >
         <p>Civil engineering student in <a href="https://www.youtube.com/watch?v=_GZiAMZZx80">undergrad</a>.</p>
         <p>EX-<a href="https://dot.ca.gov/">CALTRANS</a>, EX-<a href="https://thebmacorp.com/">BMA Construction Engineering</a>.</p>
-        <p>Software Developer at <a href="https://www.eplansoft.com/">ePlansoft.</a></p>
+        <p>EX-<a href="https://www.eplansoft.com/">ePlansoft</a>.</p>
         <p><a href="https://www.codeforsanfrancisco.org/">Code for San Francisco</a> Contributor.</p>
         <p><a href="https://realzoo.itsyipy.com/">RealZoo</a> Maintainer.</p>
       </td>
