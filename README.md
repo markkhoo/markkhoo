@@ -68,7 +68,7 @@
 </table>
 
 <p>
-  Civil Engineer in a <a href="https://www.youtube.com/watch?v=_GZiAMZZx80">past life</a>.
+  Currently a Civil Engineer again and was in a <a href="https://www.youtube.com/watch?v=_GZiAMZZx80">before software</a>.
   EX-<a href="https://dot.ca.gov/">CALTRANS</a>, 
   EX-<a href="https://thebmacorp.com/">BMA Construction Engineering</a>, 
   EX-<a href="https://www.eplansoft.com/">ePlansoft</a>.
